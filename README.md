@@ -2,8 +2,6 @@
 
 This is a basic web application that displays important milestones in the history of car development, from the early 1900s to the late 1970s. The project presents events in a timeline format using simple HTML.
 
-## Stage 1: Static Skeleton
-
 ### Description:
 
 In this stage, the basic structure of the timeline is created using HTML. It includes:
